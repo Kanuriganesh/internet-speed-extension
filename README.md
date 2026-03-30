@@ -19,7 +19,7 @@ A simple and lightweight Chrome extension to check internet speed with a clean U
 ![Popup](screenshots/popup.png)
 
 ### 🔹 Speed Result
-![Result](screenshots/result.png)
+![Result](screenshots/restult.png)
 
 ---
 
